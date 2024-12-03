@@ -1,5 +1,3 @@
-Note: This project was developed as part of an AI Lab project and is now being uploaded to GitHub to showcase my skills and enhance my resume.
-
 # About the Project
 
 1. Graphical Version (count4connect.py): A GUI-based version using Pygame. Players can choose difficulty levels (Easy, Medium, Hard), and play against an AI using the Minimax algorithm with adjustable depth. It features a visually appealing wooden-texture background, real-time rendering, and highlights for player and AI moves.
